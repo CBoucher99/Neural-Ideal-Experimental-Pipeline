@@ -1,3 +1,6 @@
+# Original file taken from https://github.com/e6-1/NeuralIdeals.git
+# File edited to work in Python 3 (parentheses added around content coded to be printed)
+
 import itertools
 import time
 import math
