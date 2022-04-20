@@ -1,3 +1,5 @@
+# file taken from https://github.com/e6-1/NeuralIdeals.git
+
 def iterate_canonical(codes, ring):
 	"""Given a set of code words, iteratively generates the canonical form ideal.
 
